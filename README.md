@@ -19,6 +19,10 @@ The `libc++_shared.so` files was taken from the NDK installation and is taken as
 
 TBD
 
+<!--
+I think what is best is to mimic the Major & Minor version of NDK. So our major & minor always represents the underlying version of NDK's major/minor. Patches will always be reserved for own builds. The issue with this, is NDK seems to use <major>.0.<build> and I assume the build number is equally important to match.
+-->
+
 ## Usage
 
 Applications should not install this package themselves. It is intended to be a dependency of other cordova plugins, that needs to have
