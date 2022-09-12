@@ -28,6 +28,10 @@ Include `<dependency id="@totalpave/cordova-plugin-libcxx" version="0.x" />`
 
 Note: Specifying exact versions is not recommended because it may limit capability of other third-party plugins that also depend on this package.
 
+## Android Notes
+
+The binary is compiled with API 24, therefore the application min SDK must be 24 or later.
+
 ## License
 
 This plugin is provided under the [Apache 2.0](./LICENSE) license. The native binaries provided in the libcxx AAR file is provided under their own respective [licenses](https://github.com/totalpaveinc/android-libcxx/blob/master/LICENSE).
