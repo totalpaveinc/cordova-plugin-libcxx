@@ -1,0 +1,4 @@
+
+dependencies {
+    implementation files('libs/libcxx-25.0.8775105.aar')
+}

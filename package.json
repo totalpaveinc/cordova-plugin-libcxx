@@ -1,0 +1,23 @@
+{
+  "name": "@totalpave/cordova-plugin-libcxx",
+  "version": "0.0.0",
+  "description": "Cordova plugin that supplies the libc++ shared libraries for native dependencies",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/totalpaveinc/cordova-plugin-libcxx.git"
+  },
+  "author": "norman.breau@totalpave.com",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/totalpaveinc/cordova-plugin-libcxx/issues"
+  },
+  "homepage": "https://github.com/totalpaveinc/cordova-plugin-libcxx#readme"
+}
