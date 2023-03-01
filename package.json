@@ -1,6 +1,6 @@
 {
   "name": "@totalpave/cordova-plugin-libcxx",
-  "version": "0.0.1",
+  "version": "25.0.8775105",
   "description": "Cordova plugin that supplies the libc++ shared libraries for native dependencies",
   "main": "index.js",
   "publishConfig": {
